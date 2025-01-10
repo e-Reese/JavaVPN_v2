@@ -19,6 +19,6 @@ public class JavaVPN {
         System.out.println("Loading VPN Application...");
         SpringApplication.run(JavaVPN.class, args);
 
-        System.out.println("VPN Application is running!");
+        System.out.println("VPN Application loaded..");
     }
 }
