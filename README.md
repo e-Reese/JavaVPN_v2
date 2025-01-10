@@ -1,7 +1,7 @@
 # VPN Server Manager
 This is a manager for a vpn server. Built with Spring Boot and OpenVPN. 
 It responds to HTTP requests and is meant to be paired with the client frontend: https://github.com/e-Reese/JavaVPN_Frontend
-Currently is running on an AWS ec2 instance found at 
+Currently is running on an AWS ec2 instance found at 13.59.29.144
 
 ## Dependencies
 Requires OpenVPN and Java 21.
